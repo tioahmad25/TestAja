@@ -1,2 +1,2 @@
 # TestAja
-Membuat repository pertama saya
+Membuat repository pertama saya.
